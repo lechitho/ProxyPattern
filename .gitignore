@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProxyPattern/v17
+/.vs
+/ProxyDesignPattern/.vs/ProxyDesignPattern
+/ProxyDesignPattern/ProxyDesignPattern/bin/Debug
+/ProxyDesignPattern/ProxyDesignPattern/obj/Debug
